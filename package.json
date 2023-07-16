@@ -1,0 +1,34 @@
+{
+  "name": "dungeonbot-website",
+  "version": "0.0.1",
+  "description": "website and api for dungeonbot",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"no test saj\"",
+    "start": "node server.js",
+    "testformat": "npx eslint ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noiredayz/dungeonbot-api.git"
+  },
+  "keywords": [
+    "nodejs",
+    "mongodb",
+    "dank",
+    "forsen"
+  ],
+  "dependencies": {
+	"mongodb": "~5.7.0"
+	},
+  "author": "Noiredayz",
+  "license": "AGPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/noiredayz/dungeonbot-api/issues"
+  },
+  "homepage": "https://github.com/noiredayz/dungeonbot-api#readme",
+  "devDependencies": {
+    "eslint": "^8.35.0"
+  }
+}
