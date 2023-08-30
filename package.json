@@ -20,7 +20,7 @@
     "forsen"
   ],
   "dependencies": {
-	"mongodb": "~5.7.0"
+	"mongodb": "~5.8.0"
 	},
   "author": "Noiredayz",
   "license": "AGPL-3.0-or-later",
