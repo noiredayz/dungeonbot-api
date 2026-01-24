@@ -20,7 +20,7 @@
     "forsen"
   ],
   "dependencies": {
-	"mongodb": "~5.8.0"
+	"mongodb": "~7.0.0"
 	},
   "author": "Noiredayz",
   "license": "AGPL-3.0-or-later",
@@ -29,6 +29,6 @@
   },
   "homepage": "https://github.com/noiredayz/dungeonbot-api#readme",
   "devDependencies": {
-    "eslint": "^8.35.0"
+    "eslint": "^9.39.0"
   }
 }
